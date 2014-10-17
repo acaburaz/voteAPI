@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoteappAPI", "VoteappAPI\VoteappAPI.csproj", "{0107C17C-962C-4FB3-BCD9-C8E6CE2ADDFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoteappAPI.Tests", "VoteappAPI.Tests\VoteappAPI.Tests.csproj", "{C702E999-5323-4856-ABF3-75A22F115583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0107C17C-962C-4FB3-BCD9-C8E6CE2ADDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0107C17C-962C-4FB3-BCD9-C8E6CE2ADDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0107C17C-962C-4FB3-BCD9-C8E6CE2ADDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0107C17C-962C-4FB3-BCD9-C8E6CE2ADDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C702E999-5323-4856-ABF3-75A22F115583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C702E999-5323-4856-ABF3-75A22F115583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C702E999-5323-4856-ABF3-75A22F115583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C702E999-5323-4856-ABF3-75A22F115583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
